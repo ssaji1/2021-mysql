@@ -1,0 +1,14 @@
+{
+  "name": "2021-mysql",
+  "version": "1.0.0",
+  "description": "this is the basics of node",
+  "main": "index.js",
+  "repository": "https://github.com/ssaji1/2021-mysql.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
